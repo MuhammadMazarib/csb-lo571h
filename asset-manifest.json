@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://muhammadmazarib.github.io/csb-lo571h/static/css/main.56ec8bd5.chunk.css",
+    "main.js": "https://muhammadmazarib.github.io/csb-lo571h/static/js/main.3aa13841.chunk.js",
+    "main.js.map": "https://muhammadmazarib.github.io/csb-lo571h/static/js/main.3aa13841.chunk.js.map",
+    "runtime-main.js": "https://muhammadmazarib.github.io/csb-lo571h/static/js/runtime-main.b47553d7.js",
+    "runtime-main.js.map": "https://muhammadmazarib.github.io/csb-lo571h/static/js/runtime-main.b47553d7.js.map",
+    "static/js/2.e5165b94.chunk.js": "https://muhammadmazarib.github.io/csb-lo571h/static/js/2.e5165b94.chunk.js",
+    "static/js/2.e5165b94.chunk.js.map": "https://muhammadmazarib.github.io/csb-lo571h/static/js/2.e5165b94.chunk.js.map",
+    "index.html": "https://muhammadmazarib.github.io/csb-lo571h/index.html",
+    "static/css/main.56ec8bd5.chunk.css.map": "https://muhammadmazarib.github.io/csb-lo571h/static/css/main.56ec8bd5.chunk.css.map",
+    "static/js/2.e5165b94.chunk.js.LICENSE.txt": "https://muhammadmazarib.github.io/csb-lo571h/static/js/2.e5165b94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b47553d7.js",
+    "static/js/2.e5165b94.chunk.js",
+    "static/css/main.56ec8bd5.chunk.css",
+    "static/js/main.3aa13841.chunk.js"
+  ]
+}
